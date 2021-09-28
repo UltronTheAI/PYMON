@@ -9,3 +9,6 @@ download with google drive # - https://drive.google.com/file/d/11M_B7EDb6NX08zrG
 
 PYTHON CODE # - https://raw.githubusercontent.com/UltronTheAI/PYMON/main/pymon.py
 PYTHON CODE FILE DOWNLOAD # - https://ultrontheai.github.io/PYMON/pymon.py
+
+
+TO USE ADD PYMON.EXE FOLDER TO PATH.
